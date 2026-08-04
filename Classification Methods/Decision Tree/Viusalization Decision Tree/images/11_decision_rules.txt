@@ -1,0 +1,22 @@
+|--- color_intensity <= 3.82
+|   |--- ash <= 3.00
+|   |   |--- od280/od315_of_diluted_wines <= 3.73
+|   |   |   |--- class: 1
+|   |   |--- od280/od315_of_diluted_wines >  3.73
+|   |   |   |--- class: 0
+|   |--- ash >  3.00
+|   |   |--- class: 0
+|--- color_intensity >  3.82
+|   |--- flavanoids <= 1.58
+|   |   |--- alcalinity_of_ash <= 17.65
+|   |   |   |--- class: 1
+|   |   |--- alcalinity_of_ash >  17.65
+|   |   |   |--- class: 2
+|   |--- flavanoids >  1.58
+|   |   |--- proline <= 724.50
+|   |   |   |--- malic_acid <= 3.92
+|   |   |   |   |--- class: 1
+|   |   |   |--- malic_acid >  3.92
+|   |   |   |   |--- class: 0
+|   |   |--- proline >  724.50
+|   |   |   |--- class: 0

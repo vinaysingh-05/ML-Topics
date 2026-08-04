@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="color_intensity <= 3.82\ngini = 0.658\nsamples = 142\nvalue = [47, 57, 38]\nclass = class_1", fillcolor="#eafcf2"] ;
+1 [label="ash <= 3.0\ngini = 0.075\nsamples = 51\nvalue = [2, 49, 0]\nclass = class_1", fillcolor="#41e686"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="od280/od315_of_diluted_wines <= 3.73\ngini = 0.039\nsamples = 50\nvalue = [1, 49, 0]\nclass = class_1", fillcolor="#3de684"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 49\nvalue = [0, 49, 0]\nclass = class_1", fillcolor="#39e581"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0]\nclass = class_0", fillcolor="#e58139"] ;
+2 -> 4 ;
+5 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0]\nclass = class_0", fillcolor="#e58139"] ;
+1 -> 5 ;
+6 [label="flavanoids <= 1.58\ngini = 0.573\nsamples = 91\nvalue = [45, 8, 38]\nclass = class_0", fillcolor="#fceee5"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="alcalinity_of_ash <= 17.65\ngini = 0.05\nsamples = 39\nvalue = [0, 1, 38]\nclass = class_2", fillcolor="#843ee6"] ;
+6 -> 7 ;
+8 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1, 0]\nclass = class_1", fillcolor="#39e581"] ;
+7 -> 8 ;
+9 [label="gini = 0.0\nsamples = 38\nvalue = [0, 0, 38]\nclass = class_2", fillcolor="#8139e5"] ;
+7 -> 9 ;
+10 [label="proline <= 724.5\ngini = 0.233\nsamples = 52\nvalue = [45, 7, 0]\nclass = class_0", fillcolor="#e99558"] ;
+6 -> 10 ;
+11 [label="malic_acid <= 3.92\ngini = 0.219\nsamples = 8\nvalue = [1, 7, 0]\nclass = class_1", fillcolor="#55e993"] ;
+10 -> 11 ;
+12 [label="gini = 0.0\nsamples = 7\nvalue = [0, 7, 0]\nclass = class_1", fillcolor="#39e581"] ;
+11 -> 12 ;
+13 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0, 0]\nclass = class_0", fillcolor="#e58139"] ;
+11 -> 13 ;
+14 [label="gini = 0.0\nsamples = 44\nvalue = [44, 0, 0]\nclass = class_0", fillcolor="#e58139"] ;
+10 -> 14 ;
+}
