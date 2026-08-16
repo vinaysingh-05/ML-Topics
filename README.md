@@ -69,7 +69,7 @@ This repository contains everything required to become an Industry Ready Machine
 |---|---|---|---|---|---|
 | 📈 Regression | **Regression ML Project Studio** | Multiple Regression Models | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **House Price Prediction AI** | Regression • Feature Engineering | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/House-price-prediction-App) | [Demo](https://house-price-prediction-app-hix54k2x6btekcoq7mdvep.streamlit.app/) |
-| 📈 Regression | **Electricity Consumption Prediction** | Regression • Time Series | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **Electricity Consumption Prediction** | Regression • Time Series | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Household-Electricity-Load-Forecaster) | - |
 | 📈 Regression | **AI Startup Valuation Prediction** | Regression • Business Analytics | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **EV Battery Life Prediction** | Regression • Predictive Modeling | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
