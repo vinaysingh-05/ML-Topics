@@ -63,7 +63,75 @@ This repository contains everything required to become an Industry Ready Machine
 ✔ Best Practices
 
 ---
+# 💼 Machine Learning & AI Projects
 
+| Category | Project | Type / Concepts | Status | GitHub | Demo |
+|---|---|---|---|---|---|
+| 📈 Regression | **Regression ML Project Studio** | Multiple Regression Models | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **House Price Prediction AI** | Regression • Feature Engineering | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/House-price-prediction-App) | [Demo](https://house-price-prediction-app-hix54k2x6btekcoq7mdvep.streamlit.app/) |
+| 📈 Regression | **Electricity Consumption Prediction** | Regression • Time Series | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **AI Startup Valuation Prediction** | Regression • Business Analytics | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **EV Battery Life Prediction** | Regression • Predictive Modeling | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **Bangalore House Price Prediction** | Regression • End-to-End ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **Car Price Predictor** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/car_price_prediction) | [Demo](https://carpriceprediction-k59ot8irhdohvjoe5vcqdk.streamlit.app/) |
+| 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **Airbnb Price Prediction** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai_powered_airbnb_price_prediction) | [Demo](https://air-bnb-price-prediction099223.streamlit.app/#contact) |
+| 📈 Regression | **Logistic Regression Visualizer** | Logistic Regression • Hyperparameters • Visualization | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/logistic-regression-visualizer) | [Demo](https://logistic-regression-visualizer-nwynnwur9rgu2detcgjq3p.streamlit.app/) |
+| 🏷️ Classification | **Classification ML Studio Project** | Multiple Classification Models | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **AI Loan Approval Prediction** | Classification • Risk Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **AI Fake Research Paper Detector** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **AI Resume Shortlisting Predictor** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **AI Insurance Risk Pricing Prediction** | Classification • Risk Analysis | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **Email / SMS Spam Classifier** | NLP • Classification | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **Titanic Survival Prediction** | Classification • EDA | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **IPL Win Probability Predictor** | Classification • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **T20 World Cup Score Predictor** | Prediction • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **AI Workplace Productivity Analysis** | Classification • ML • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai-workplace-productivity-analysis) | [Demo](https://ai-workplace-appuctivity-analysis-93hbuvhxz5xdah2zhznzvi.streamlit.app/) |
+| 🏷️ Classification | **Digit Recognizer** | Classification • Scikit-learn • PCA | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Digit-Recognizer-withPCA-withoutPCA) | - |
+| 🏷️ Classification | **Diabetes Risk Predictor Neural-Lite** | Classification • Streamlit • TFLite | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Diabetes-Risk-Predictor-Neural-Lite) | - |
+| 🧩 Clustering | **Customer Segmentation** | Clustering • K-Means | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🧩 Clustering | **Music Store Clustering** | Clustering • Customer Analysis | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🧩 Clustering | **Buying Behaviour Clustering** | Clustering • Customer Analytics | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🧩 Recommendation | **Movie Recommender System** | Content-Based Recommendation | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🧩 Recommendation | **Book Recommender System** | Collaborative Filtering | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🧩 Recommendation | **Fashion Recommender System** | Recommendation • E-commerce | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 👁️ Computer Vision | **Face Mask Detection** | CNN • VGG16 • Keras | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 👁️ Computer Vision | **Cat vs Dog Classification** | CNN • Deep Learning | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 👁️ Computer Vision | **Bollywood Celebrity Classifier** | CNN • Deep Learning | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 👁️ Computer Vision | **Posture Detection** | PoseNet • Computer Vision | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🗣️ NLP | **Duplicate Question Pairs — Quora** | NLP • Similarity Detection | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🗣️ NLP | **Telegram Chatbot** | Python • DialogFlow • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🤖 AI / Agents | **My MVP Agent** | GroqAPI • Streamlit • Python | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/My-MVP-Agent) | [Demo](https://my-mvp-agent-ev6kku4xmurqir7dpdde6a.streamlit.app/) |
+| 📊 Data Analysis | **WhatsApp Chat Analysis** | Data Analysis • Visualization | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📊 Data Analysis | **Olympics Data Analysis** | Data Analysis • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📊 Data Analysis | **COVID-19 Dashboard** | Data Analysis • Dashboard | 🟡 Planned | [GitHub](#) | [Demo](#) |
+
+## 📊 Project Summary
+
+| Category | Number of Projects |
+|---|---:|
+| 📈 Regression | 11 |
+| 🏷️ Classification | 12 |
+| 🧩 Clustering | 3 |
+| 🔄 Recommendation Systems | 3 |
+| 👁️ Computer Vision | 4 |
+| 🗣️ NLP | 2 |
+| 🤖 AI / Agents | 1 |
+| 📊 Data Analysis | 3 |
+| **🚀 Total Projects** | **39** |
+
+---
+
+### 🎯 Project Progress
+
+| Status | Projects |
+|---|---:|
+| 🟢 Completed | 7 |
+| 🟡 Planned | 30 |
+| 🗃️ Archived | 2 |
+| **Total** | **39** |
+---
 # 🐍 1. Python for Machine Learning
 
 ```
