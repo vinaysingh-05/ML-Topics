@@ -96,12 +96,6 @@ This repository contains everything required to become an Industry Ready Machine
 | 🧩 Recommendation | **Movie Recommender System** | Content-Based Recommendation | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🧩 Recommendation | **Book Recommender System** | Collaborative Filtering | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🧩 Recommendation | **Fashion Recommender System** | Recommendation • E-commerce | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Face Mask Detection** | CNN • VGG16 • Keras | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Cat vs Dog Classification** | CNN • Deep Learning | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Bollywood Celebrity Classifier** | CNN • Deep Learning | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Posture Detection** | PoseNet • Computer Vision | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🗣️ NLP | **Duplicate Question Pairs — Quora** | NLP • Similarity Detection | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🗣️ NLP | **Telegram Chatbot** | Python • DialogFlow • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🤖 AI / Agents | **My MVP Agent** | GroqAPI • Streamlit • Python | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/My-MVP-Agent) | [Demo](https://my-mvp-agent-ev6kku4xmurqir7dpdde6a.streamlit.app/) |
 | 📊 Data Analysis | **WhatsApp Chat Analysis** | Data Analysis • Visualization | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📊 Data Analysis | **Olympics Data Analysis** | Data Analysis • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
