@@ -426,14 +426,6 @@ Deployment
 
 ---
 
-## Flask
-
-- REST API
-- Routes
-- JSON
-
----
-
 ## FastAPI
 
 - Swagger
@@ -445,25 +437,14 @@ Deployment
 # ☁ Deployment Platforms
 
 - Render
+- Stremlit
 - Railway
 - HuggingFace
 - Vercel
 - AWS
 - Azure
 - GCP
-
----
-
-# 🗄 SQL for ML
-
-- SELECT
-- WHERE
-- GROUP BY
-- HAVING
-- JOIN
-- Window Functions
-- CTE
-
+  
 ---
 
 # ⚡ MLOps Basics
@@ -472,9 +453,6 @@ Deployment
 - GitHub
 - Docker
 - MLflow
-- DVC
-- CI/CD
-- Model Monitoring
 
 ---
 
@@ -496,35 +474,6 @@ Deployment
 - Pandas
 - sklearn
 - EDA
-
----
-
-## Projects
-
-- House Price Prediction
-- Student Performance
-- Loan Prediction
-- Heart Disease
-- Customer Churn
-- Spam Detection
-- Movie Recommendation
-- Sales Forecasting
-
----
-
-# 🚀 End-to-End Projects
-
-| Project | Skills |
-|----------|--------|
-| House Price Prediction | Regression |
-| Student Performance | Regression |
-| Heart Disease | Classification |
-| Credit Card Fraud | Classification |
-| Customer Churn | Classification |
-| Recommendation System | Unsupervised |
-| NLP Sentiment Analysis | NLP |
-| Resume Screening | NLP |
-| Image Classification | Deep Learning |
 
 ---
 
