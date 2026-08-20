@@ -75,7 +75,7 @@ This repository contains everything required to become an Industry Ready Machine
 | 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **Bangalore House Price Prediction** | Regression • End-to-End ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **Car Price Predictor** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/car_price_prediction) | [Demo](https://carpriceprediction-k59ot8irhdohvjoe5vcqdk.streamlit.app/) |
-| 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟢 Completed  | [GitHub](https://github.com/vinaysingh-05/Laptop-Price-Predictor/tree/main) | [Demo](https://laptop-price-predictor-dst6tjac22suzmvtyk94ka.streamlit.app/) |
 | 📈 Regression | **Airbnb Price Prediction** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai_powered_airbnb_price_prediction) | [Demo](https://air-bnb-price-prediction099223.streamlit.app/#contact) |
 | 📈 Regression | **Logistic Regression Visualizer** | Logistic Regression • Hyperparameters • Visualization | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/logistic-regression-visualizer) | [Demo](https://logistic-regression-visualizer-nwynnwur9rgu2detcgjq3p.streamlit.app/) |
 | 🏷️ Classification | **Classification ML Studio Project** | Multiple Classification Models | 🟡 Planned | [GitHub](#) | [Demo](#) |
@@ -96,12 +96,6 @@ This repository contains everything required to become an Industry Ready Machine
 | 🧩 Recommendation | **Movie Recommender System** | Content-Based Recommendation | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🧩 Recommendation | **Book Recommender System** | Collaborative Filtering | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🧩 Recommendation | **Fashion Recommender System** | Recommendation • E-commerce | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Face Mask Detection** | CNN • VGG16 • Keras | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Cat vs Dog Classification** | CNN • Deep Learning | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Bollywood Celebrity Classifier** | CNN • Deep Learning | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 👁️ Computer Vision | **Posture Detection** | PoseNet • Computer Vision | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🗣️ NLP | **Duplicate Question Pairs — Quora** | NLP • Similarity Detection | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🗣️ NLP | **Telegram Chatbot** | Python • DialogFlow • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🤖 AI / Agents | **My MVP Agent** | GroqAPI • Streamlit • Python | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/My-MVP-Agent) | [Demo](https://my-mvp-agent-ev6kku4xmurqir7dpdde6a.streamlit.app/) |
 | 📊 Data Analysis | **WhatsApp Chat Analysis** | Data Analysis • Visualization | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📊 Data Analysis | **Olympics Data Analysis** | Data Analysis • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
@@ -432,14 +426,6 @@ Deployment
 
 ---
 
-## Flask
-
-- REST API
-- Routes
-- JSON
-
----
-
 ## FastAPI
 
 - Swagger
@@ -451,25 +437,14 @@ Deployment
 # ☁ Deployment Platforms
 
 - Render
+- Stremlit
 - Railway
 - HuggingFace
 - Vercel
 - AWS
 - Azure
 - GCP
-
----
-
-# 🗄 SQL for ML
-
-- SELECT
-- WHERE
-- GROUP BY
-- HAVING
-- JOIN
-- Window Functions
-- CTE
-
+  
 ---
 
 # ⚡ MLOps Basics
@@ -478,9 +453,6 @@ Deployment
 - GitHub
 - Docker
 - MLflow
-- DVC
-- CI/CD
-- Model Monitoring
 
 ---
 
@@ -502,35 +474,6 @@ Deployment
 - Pandas
 - sklearn
 - EDA
-
----
-
-## Projects
-
-- House Price Prediction
-- Student Performance
-- Loan Prediction
-- Heart Disease
-- Customer Churn
-- Spam Detection
-- Movie Recommendation
-- Sales Forecasting
-
----
-
-# 🚀 End-to-End Projects
-
-| Project | Skills |
-|----------|--------|
-| House Price Prediction | Regression |
-| Student Performance | Regression |
-| Heart Disease | Classification |
-| Credit Card Fraud | Classification |
-| Customer Churn | Classification |
-| Recommendation System | Unsupervised |
-| NLP Sentiment Analysis | NLP |
-| Resume Screening | NLP |
-| Image Classification | Deep Learning |
 
 ---
 
