@@ -145,7 +145,30 @@ Python Basics
 ```
 
 ---
+## ⚖️ Imbalanced Data Handling
 
+Imbalanced data occurs when one class has significantly more samples than another.
+
+### Techniques
+
+```text
+Random Oversampling → Increase minority samples
+Random Undersampling → Reduce majority samples
+SMOTE → Generate synthetic minority samples
+Class Weights → Give more importance to minority class
+Balanced Random Forest → Train with balanced samples
+```
+## ⚙️ Optuna Hyperparameter Tuning
+
+Optuna automatically searches for the best hyperparameter combination for a machine learning model.
+
+### Techniques
+
+```text
+TPESampler → Intelligent/Bayesian-style hyperparameter search
+RandomSampler → Randomly samples hyperparameter combinations
+GridSampler → Exhaustively searches predefined combinations
+```
 # 📐 2. Mathematics for Machine Learning
 
 ## Linear Algebra
