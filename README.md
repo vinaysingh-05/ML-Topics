@@ -479,33 +479,63 @@ Deployment
 
 # 📂 Repository Structure
 
-```
+```text
 Machine-Learning/
 
 │
-├── 01_Python
-├── 02_Maths
-├── 03_NumPy
-├── 04_Pandas
-├── 05_Visualization
-├── 06_Preprocessing
-├── 07_Feature_Engineering
-├── 08_Regression
-├── 09_Classification
-├── 10_Clustering
-├── 11_Dimensionality_Reduction
-├── 12_Ensemble
-├── 13_Model_Evaluation
-├── 14_Hyperparameter_Tuning
-├── 15_Pipelines
-├── 16_Deployment
-├── 17_SQL
-├── 18_MLOps
-├── Projects
+├── Classification Methods/
+│   ├── Decision Tree/
+│   ├── Ensemble Learning Family/
+│   ├── K-Nearest Neighbors/
+│   ├── Logistic Regression/
+│   ├── Naive Bayes/
+│   └── SVM/
+│
+├── Clustering Methods/
+│   ├── Agglomerative Hierarchical Clustering/
+│   ├── Clustering Sample/
+│   ├── DBSCAN Clustering/
+│   └── K-Means Clustering/
+│
+├── Data Processing/
+│   ├── Outlier Handles/
+│   └── PCA/
+│
+├── Imbalanced Data Handles/
+│   ├── Balanced Random Forest/
+│   ├── Class Weights/
+│   ├── Random Oversampling/
+│   ├── Random Undersampling/
+│   └── SMOTE/
+│
+├── ML-Experiment (iris-dataset)/
+│
+├── ML-Report (workplace-dataset)/
+│
+├── Model training sequence/
+│
+├── Optuna Hyperparameter tuning/
+│   ├── Optuna ML Flow/
+│   └── Optuna Work/
+│
+├── Performance Matrices/
+│   ├── Classification Matrix/
+│   └── Regression Matrix/
+│
+├── Regression Methods/
+│   ├── Decision Tree Regressor/
+│   ├── Ensemble learning/
+│   ├── K-Nearest Neighbors Regressor/
+│   ├── Master Regression Comparison/
+│   ├── Polynomial Linear Regression/
+│   ├── Random Forest Regressor/
+│   ├── Regularization-Regression/
+│   ├── Simple Linear Regression/
+│   └── Support Vector Regression (SVR)/
+│
 └── README.md
 ```
 
----
 
 # 📖 Learning Path
 
