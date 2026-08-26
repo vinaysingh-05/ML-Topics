@@ -73,7 +73,6 @@ This repository contains everything required to become an Industry Ready Machine
 | 📈 Regression | **AI Startup Valuation Prediction** | Regression • Business Analytics | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **EV Battery Life Prediction** | Regression • Predictive Modeling | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 📈 Regression | **Bangalore House Price Prediction** | Regression • End-to-End ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **Car Price Predictor** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/car_price_prediction) | [Demo](https://carpriceprediction-k59ot8irhdohvjoe5vcqdk.streamlit.app/) |
 | 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟢 Completed  | [GitHub](https://github.com/vinaysingh-05/Laptop-Price-Predictor/tree/main) | [Demo](https://laptop-price-predictor-dst6tjac22suzmvtyk94ka.streamlit.app/) |
 | 📈 Regression | **Airbnb Price Prediction** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai_powered_airbnb_price_prediction) | [Demo](https://air-bnb-price-prediction099223.streamlit.app/#contact) |
