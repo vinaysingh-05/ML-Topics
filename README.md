@@ -71,7 +71,7 @@ This repository contains everything required to become an Industry Ready Machine
 | 📈 Regression | **House Price Prediction AI** | Regression • Feature Engineering | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/House-price-prediction-App) | [Demo](https://house-price-prediction-app-hix54k2x6btekcoq7mdvep.streamlit.app/) |
 | 📈 Regression | **Electricity Consumption Prediction** | Regression • Time Series | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Household-Electricity-Load-Forecaster) | - |
 | 📈 Regression | **AI Startup Valuation Prediction** | Regression • Business Analytics |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/AI-Startup-Valuation-Prediction.git) | [Demo](https://ai-startup-valuation-prediction-nappzj9hdfumdfzn73ou8w.streamlit.app/) |
-| 📈 Regression | **EV Battery Life Prediction** | Regression • Predictive Modeling | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **EV Battery Life RUL Prediction** | Regression • Predictive Modeling |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/EV-Battery-Remaining-Useful-life-RUL-Prediction) |-|
 | 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📈 Regression | **Car Price Predictor** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/car_price_prediction) | [Demo](https://carpriceprediction-k59ot8irhdohvjoe5vcqdk.streamlit.app/) |
 | 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟢 Completed  | [GitHub](https://github.com/vinaysingh-05/Laptop-Price-Predictor/tree/main) | [Demo](https://laptop-price-predictor-dst6tjac22suzmvtyk94ka.streamlit.app/) |
