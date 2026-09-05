@@ -71,8 +71,8 @@ This repository contains everything required to become an Industry Ready Machine
 | 📈 Regression | **House Price Prediction AI** | Regression • Feature Engineering | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/House-price-prediction-App) | [Demo](https://house-price-prediction-app-hix54k2x6btekcoq7mdvep.streamlit.app/) |
 | 📈 Regression | **Electricity Consumption Prediction** | Regression • Time Series | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Household-Electricity-Load-Forecaster) | - |
 | 📈 Regression | **AI Startup Valuation Prediction** | Regression • Business Analytics |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/AI-Startup-Valuation-Prediction.git) | [Demo](https://ai-startup-valuation-prediction-nappzj9hdfumdfzn73ou8w.streamlit.app/) |
-| 📈 Regression | **EV Battery Life RUL Prediction** | Regression • Predictive Modeling |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/EV-Battery-Remaining-Useful-life-RUL-Prediction) |-|
-| 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 📈 Regression | **EV Battery Life RUL Prediction** | Regression • Predictive Modeling |🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/EV-Battery-Remaining-Useful-life-RUL-Prediction) |-|
+| 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction |🟢 Completed| [GitHub](https://github.com/vinaysingh-05/AI-Interview-Salary-Negotiation-Prediction) | [Demo](https://ai-interview-salary-negotiation-prediction-bkl6fg2mjezzh2qvcfy.streamlit.app/) |
 | 📈 Regression | **Car Price Predictor** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/car_price_prediction) | [Demo](https://carpriceprediction-k59ot8irhdohvjoe5vcqdk.streamlit.app/) |
 | 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟢 Completed  | [GitHub](https://github.com/vinaysingh-05/Laptop-Price-Predictor/tree/main) | [Demo](https://laptop-price-predictor-dst6tjac22suzmvtyk94ka.streamlit.app/) |
 | 📈 Regression | **Airbnb Price Prediction** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai_powered_airbnb_price_prediction) | [Demo](https://air-bnb-price-prediction099223.streamlit.app/#contact) |
@@ -104,15 +104,13 @@ This repository contains everything required to become an Industry Ready Machine
 
 | Category | Number of Projects |
 |---|---:|
-| 📈 Regression | 11 |
+| 📈 Regression | 10 |
 | 🏷️ Classification | 12 |
 | 🧩 Clustering | 3 |
-| 🔄 Recommendation Systems | 3 |
-| 👁️ Computer Vision | 4 |
-| 🗣️ NLP | 2 |
+| 🧩 Recommendation | 3 |
 | 🤖 AI / Agents | 1 |
 | 📊 Data Analysis | 3 |
-| **🚀 Total Projects** | **39** |
+| **🚀 Total Projects** | **32** |
 
 ---
 
@@ -120,11 +118,12 @@ This repository contains everything required to become an Industry Ready Machine
 
 | Status | Projects |
 |---|---:|
-| 🟢 Completed | 7 |
-| 🟡 Planned | 30 |
-| 🗃️ Archived | 2 |
-| **Total** | **39** |
+| 🟢 Completed | 9 |
+| 🟡 Planned | 19 |
+| 🗃️ Archived | 4 |
+| **Total** | **32** |
 ---
+
 # 🐍 1. Python for Machine Learning
 
 ```
