@@ -82,7 +82,7 @@ This repository contains everything required to become an Industry Ready Machine
 | 🏷️ Classification | **AI Fake Research Paper Detector** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Resume Shortlisting Predictor** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Insurance Risk Pricing Prediction** | Classification • Risk Analysis | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🏷️ Classification | **Email / SMS Spam Classifier** | NLP • Classification | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **Email / SMS Spam Classifier** | Classification |🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Email-sms-classifier) | [Demo](#) |
 | 🏷️ Classification | **Titanic Survival Prediction** | Classification • EDA | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **IPL Win Probability Predictor** | Classification • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **T20 World Cup Score Predictor** | Prediction • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
