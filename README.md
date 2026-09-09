@@ -84,7 +84,7 @@ This repository contains everything required to become an Industry Ready Machine
 | 🏷️ Classification | **AI Insurance Risk Pricing Prediction** | Classification • Risk Analysis | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **Email / SMS Spam Classifier** | Classification |🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Email-sms-classifier) |-|
 | 🏷️ Classification | **Titanic Survival Prediction** | Classification • EDA | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🏷️ Classification | **IPL Win Probability Predictor** | Classification • Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **IPL Win Probability Predictor** | Classification • Prediction |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ipl-win-probability-predictor) | [Demo](https://ipl-win-probability-predictor-3baagkdne8cxzykel2qbyj.streamlit.app/) |
 | 🏷️ Classification | **T20 World Cup Score Predictor** | Prediction • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Workplace Productivity Analysis** | Classification • ML • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai-workplace-productivity-analysis) | [Demo](https://ai-workplace-appuctivity-analysis-93hbuvhxz5xdah2zhznzvi.streamlit.app/) |
 | 🏷️ Classification | **Digit Recognizer** | Classification • Scikit-learn • PCA | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Digit-Recognizer-withPCA-withoutPCA) | - |
