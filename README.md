@@ -77,14 +77,12 @@ This repository contains everything required to become an Industry Ready Machine
 | 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟢 Completed  | [GitHub](https://github.com/vinaysingh-05/Laptop-Price-Predictor/tree/main) | [Demo](https://laptop-price-predictor-dst6tjac22suzmvtyk94ka.streamlit.app/) |
 | 📈 Regression | **Airbnb Price Prediction** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai_powered_airbnb_price_prediction) | [Demo](https://air-bnb-price-prediction099223.streamlit.app/#contact) |
 | 📈 Regression | **Logistic Regression Visualizer** | Logistic Regression • Hyperparameters • Visualization | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/logistic-regression-visualizer) | [Demo](https://logistic-regression-visualizer-nwynnwur9rgu2detcgjq3p.streamlit.app/) |
-| 📈 Regression | **T20 World Cup Score Predictor** | Prediction • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **Classification ML Studio Project** | Multiple Classification Models | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Loan Approval Prediction** | Classification • Risk Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Fake Research Paper Detector** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Resume Shortlisting Predictor** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Insurance Risk Pricing Prediction** | Classification • Risk Analysis | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **Email / SMS Spam Classifier** | Classification |🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Email-sms-classifier) |-|
-| 🏷️ Classification | **Titanic Survival Prediction** | Classification • EDA | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **IPL Win Probability Predictor** | Classification • Prediction |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ipl-win-probability-predictor) | [Demo](https://ipl-win-probability-predictor-3baagkdne8cxzykel2qbyj.streamlit.app/) |
 | 🏷️ Classification | **AI Workplace Productivity Analysis** | Classification • ML • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai-workplace-productivity-analysis) | [Demo](https://ai-workplace-appuctivity-analysis-93hbuvhxz5xdah2zhznzvi.streamlit.app/) |
 | 🏷️ Classification | **Digit Recognizer** | Classification • Scikit-learn • PCA | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Digit-Recognizer-withPCA-withoutPCA) | - |
