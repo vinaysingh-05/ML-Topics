@@ -78,7 +78,7 @@ This repository contains everything required to become an Industry Ready Machine
 | 📈 Regression | **Airbnb Price Prediction** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai_powered_airbnb_price_prediction) | [Demo](https://air-bnb-price-prediction099223.streamlit.app/#contact) |
 | 📈 Regression | **Logistic Regression Visualizer** | Logistic Regression • Hyperparameters • Visualization | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/logistic-regression-visualizer) | [Demo](https://logistic-regression-visualizer-nwynnwur9rgu2detcgjq3p.streamlit.app/) |
 | 🏷️ Classification | **Classification ML Studio Project** | Multiple Classification Models | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🏷️ Classification | **AI Loan Approval Prediction** | Classification • Risk Prediction | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **AI Loan Approval Prediction** | Classification • Risk Prediction |🟢 Completed| [GitHub](https://github.com/vinaysingh-05/AI-Loan-Approval-Prediction-LoanLens) | [Demo](https://ai-loan-approval-prediction-loanlens-9wvyhgazcqkywws5iu2sah.streamlit.app/) |
 | 🏷️ Classification | **AI Fake Research Paper Detector** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Resume Shortlisting Predictor** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 🏷️ Classification | **AI Insurance Risk Pricing Prediction** | Classification • Risk Analysis | 🟡 Planned | [GitHub](#) | [Demo](#) |
